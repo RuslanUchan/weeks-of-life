@@ -1,0 +1,19 @@
+.app {
+  text-align: center;
+  margin: 20px;
+  font-size: 24px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+  text-align: left;
+  box-shadow: 0 0 5px 1px rgba(0, 0, 0, .2);
+  margin: 20px 50px;
+  min-height: 300px;
+  padding: 20px 10px;
+}
+
+.container h6 {
+  text-align: center;
+  margin: 0 0 15px 0;
+}
